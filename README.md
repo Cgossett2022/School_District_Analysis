@@ -26,7 +26,7 @@ In this project, I am helping Maria analyze data across different high schools. 
 
 <img width="530" alt="Deliverable 3" src="https://user-images.githubusercontent.com/111243284/216378572-da43bdc4-a3a0-41a2-aa0b-e7a00d6d03f0.png">
 
-## Deliverable 4: Drill Down into the Data
+### Deliverable 4: Drill Down into the Data
 
 <img width="371" alt="Deliverable 4-1" src="https://user-images.githubusercontent.com/111243284/216378742-7259e5f4-a5d7-44ae-b4e1-1ae3dc1de35c.png">
 
